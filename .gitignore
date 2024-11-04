@@ -1,3 +1,4 @@
 # ignore pycharm settings file
 *.idea
 *.csv
+*.xlsx
